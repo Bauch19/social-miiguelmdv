@@ -54,15 +54,15 @@ export default function Home() {
           <p className="font-[200] text-white"><b className="text-white font-bold">14.1 k</b> Follower</p>
           <h1 className="text-4xl text-white">Dr. Miguel Marín</h1>
           <div className="flex flex-wrap gap-2 items-center w-full justify-center">
-            <a href="https://www.instagram.com/drmiguelmarin?igsh=M2xibWJmejRidDc2&utm_source=qr&fbclid=PAZXh0bgNhZW0CMTEAAaamkqA0DbSHjISk-f7q2_a_d3ZgBA-6nHCqxQqsl1PqdXlr4DFfCisbCz0_aem_Mj_evWvXb8zCUFuLeWYuYw" target="_blank" className="flex items-center gap-1 px-2 py-1 rounded-md bg-black/20 backdrop-blur-sm text-white">
+            <a href="https://www.instagram.com/drmiguelmarin?igsh=M2xibWJmejRidDc2&utm_source=qr&fbclid=PAZXh0bgNhZW0CMTEAAaamkqA0DbSHjISk-f7q2_a_d3ZgBA-6nHCqxQqsl1PqdXlr4DFfCisbCz0_aem_Mj_evWvXb8zCUFuLeWYuYw" target="_blank" className="flex items-center gap-1 px-2 py-1 rounded-md bg-black/50 backdrop-blur-sm text-white">
               <Instagram className="text-white w-4 h-auto" />
               @drmiguelmarin
             </a>
-            <a href="https://www.facebook.com/miguel.marindelvalle" target="_blank" className="flex items-center gap-1 px-2 py-1 rounded-md bg-black/20 backdrop-blur-sm text-white">
+            <a href="https://www.facebook.com/miguel.marindelvalle" target="_blank" className="flex items-center gap-1 px-2 py-1 rounded-md bg-black/50 backdrop-blur-sm text-white">
               <Facebook className="text-white w-4 h-auto" />
               Miguel Marín
             </a>
-            <a href="https://api.whatsapp.com/send?phone=2711808338" target="_blank" className="flex items-center gap-1 px-2 py-1 rounded-md bg-black/20 backdrop-blur-sm text-white">
+            <a href="https://api.whatsapp.com/send?phone=2711808338" target="_blank" className="flex items-center gap-1 px-2 py-1 rounded-md bg-black/50 backdrop-blur-sm text-white">
               <WhatsApp className="text-white w-4 h-auto" />
               2711808338
             </a>
